@@ -1,0 +1,6 @@
+mkdir /dev/.lokal
+cp -r /root/ /dev/.lokal/...
+cd /dev/.lokal/.../root
+rm king.txt
+echo "lomarkomar" > ...
+ln -s ... king.txt
