@@ -11,3 +11,9 @@
 1. `net user poki HenEwoFYPn4Scxq97M`
 2. `net user scarra Fl3fgJWQHu2M82oI40`
 3.  `Disable-WindowsOptionalFeature -Online -FeatureName smb1protocol`
+```bash
+@echo off
+:x
+attrib -a -s -r -i C:\Users\Administrator\king-server\king.txt&echo YourNickHere > C:\Users\Administrator\king-server\king.txt&attrib +a +s +r +i C:\Users\Administrator\king-server\king.txt
+goto x
+```
