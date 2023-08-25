@@ -12,9 +12,13 @@
 11. #### [Production](https://github.com/farukerdem34/THM-KOTH-Rooms/tree/master/Production)   
 12. #### [Tyler](https://github.com/farukerdem34/THM-KOTH-Rooms/tree/master/Tyler) 
 
-## Useful Links
+## Useful Links (King Of The Hill)
 1. https://github.com/MatheuZSecurity/Koth-TryHackMe-Tricks
 2. https://github.com/andrew-d/static-binaries
 3. https://github.com/Machinh/Koth-THM
 4. https://github.com/holmes-py/King-of-the-hill
 5. https://blog.noxtal.com/cheatsheets/2020/08/08/ultimate-koth-defense-guide/
+
+
+## Useful Cheat Sheets
+1. https://portswigger.net/web-security/sql-injection/cheat-sheet
