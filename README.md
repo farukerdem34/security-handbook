@@ -1,17 +1,3 @@
-# THM KoTH 
-1. #### [Carnage](https://github.com/farukerdem34/THM-KOTH-Rooms/tree/master/THM-KOTH/Carnage)
-2. #### [Food](https://github.com/farukerdem34/THM-KOTH-Rooms/tree/master/THM-KOTH/Food) 
-3. #### [Fortune](https://github.com/farukerdem34/THM-KOTH-Rooms/tree/master/THM-KOTH/Fortune) 
-4. #### [H1:Easy](https://github.com/farukerdem34/THM-KOTH-Rooms/tree/master/THM-KOTH/H1-Easy) 
-5. #### [H1:Medium](https://github.com/farukerdem34/THM-KOTH-Rooms/tree/master/THM-KOTH/H1-Medium) 
-6. #### [Hackers](https://github.com/farukerdem34/THM-KOTH-Rooms/tree/master/THM-KOTH/Hackers) 
-7. #### [Hogwards](https://github.com/farukerdem34/THM-KOTH-Rooms/tree/master/THM-KOTH/Hogwards) 
-8. #### [Lion](https://github.com/farukerdem34/THM-KOTH-Rooms/tree/master/THM-KOTH/Lion)
-9. #### [Offline](https://github.com/farukerdem34/THM-KOTH-Rooms/tree/master/THM-KOTH/Offline)  
-10. #### [Panda](https://github.com/farukerdem34/THM-KOTH-Rooms/tree/master/THM-KOTH/Panda)
-11. #### [Production](https://github.com/farukerdem34/THM-KOTH-Rooms/tree/master/THM-KOTH/Production)   
-12. #### [Tyler](https://github.com/farukerdem34/THM-KOTH-Rooms/tree/master/THM-KOTH/Tyler) 
-
 ## Useful Links (King Of The Hill)
 1. https://github.com/MatheuZSecurity/Koth-TryHackMe-Tricks
 2. https://github.com/andrew-d/static-binaries
@@ -21,4 +7,8 @@
 
 
 ## Useful Cheat Sheets
+### SQLi
 1. https://portswigger.net/web-security/sql-injection/cheat-sheet
+### XSS
+1. https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
+2. https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45
