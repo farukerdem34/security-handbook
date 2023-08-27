@@ -8,7 +8,7 @@
 
 ## Useful Cheat Sheets
 ### SQLi
-1. https://portswigger.net/web-security/sql-injection/cheat-sheet
+1. <a href="https://portswigger.net/web-security/sql-injection/cheat-sheet">Port Swigger SQLi Cheat Sheet</a>
 ### XSS
-1. https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
-2. https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45
+1. <a href="https://portswigger.net/web-security/cross-site-scripting/cheat-sheet">Port Swigger XSS Cheat Sheet</a>
+2. <a href="https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45">XSS Vectors Cheat Sheet</a>
