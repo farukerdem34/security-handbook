@@ -1,4 +1,4 @@
-## Useful Links (King Of The Hill)
+## Useful Links (Try Hack Me King Of The Hill)
 1. https://github.com/MatheuZSecurity/Koth-TryHackMe-Tricks
 2. https://github.com/andrew-d/static-binaries
 3. https://github.com/Machinh/Koth-THM
