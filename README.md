@@ -1,9 +1,9 @@
 ## Useful Links (Try Hack Me King Of The Hill)
-1. https://github.com/MatheuZSecurity/Koth-TryHackMe-Tricks
-2. https://github.com/andrew-d/static-binaries
-3. https://github.com/Machinh/Koth-THM
-4. https://github.com/holmes-py/King-of-the-hill
-5. https://blog.noxtal.com/cheatsheets/2020/08/08/ultimate-koth-defense-guide/
+1. <a href="https://github.com/MatheuZSecurity/Koth-TryHackMe-Tricks">MatheuZSecurity</a>
+2. <a href="https://github.com/andrew-d/static-binaries">Static Binaries</a>
+3. <a href="https://github.com/Machinh/Koth-THM">KOTH-THM/Machinh</a>
+4. <a href="https://github.com/holmes-py/King-of-the-hill">Kin-of-the-hill/holmes-py/</a>
+5. <a href="https://blog.noxtal.com/cheatsheets/2020/08/08/ultimate-koth-defense-guide/">Koth Defence Guide</a>
 
 
 ## Useful Cheat Sheets
