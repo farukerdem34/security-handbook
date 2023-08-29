@@ -29,4 +29,4 @@ while true; do
      chmod 200 /root/king.txt
      /dev/shm/asd +ia /root/king.txt >/dev/null
      /dev/shm/asd +ia /root >/dev/null
-done &
+done
