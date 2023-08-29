@@ -62,10 +62,18 @@ echo cm0gLXJmICQod2hpY2ggY2hhdHRyKQpjbGVhcl90bXAoKXsKY2QgL3RtcApybSAtcmYgKgp9Cmd
 ```
 
 ## Flags
-/home/bobba/flag1.txt (rot13)
-/home/yoda/flag2.txt (hex)
-/home/duku/flag3.txt
-/root/flag4.txt
-/var/www/html/web1/web.db
-/var/www/html/web2/flag.txt
-/var/www/html/web3/flag.txt
+
+```/home/bobba/flag1.txt (rot13)```
+
+```/home/yoda/flag2.txt (hex)```
+
+```/home/duku/flag3.txt```
+
+```/root/flag4.txt```
+
+```/var/www/html/web1/web.db```
+
+```/var/www/html/web2/flag.txt```
+
+```/var/www/html/web3/flag.txt```
+
