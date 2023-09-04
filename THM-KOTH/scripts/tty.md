@@ -2,3 +2,10 @@
 - `export TERM=xterm; export SHELL=/bin/bash`
 - CTRL+Z
 - `stty raw -echo;fg`
+## Or
+- `SHELL=/bin/bash script -q /dev/null`
+- Ctrl-Z
+- `stty raw -echo`
+- `fg`
+- `reset`
+- `xterm`
