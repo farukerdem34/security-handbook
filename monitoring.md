@@ -15,3 +15,11 @@ This command logs the top outputs, so if you couldn't capture the process you ca
 tail -f /var/log/syslog /var/log/auth.log
 ```
 Multiple log file monitoring.
+
+## Kill PS
+```
+kill -9 $PID
+```
+```
+killall $PNAME
+```
