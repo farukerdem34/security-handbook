@@ -1,3 +1,7 @@
+## Topics
+1. [Monitoring](monitoring.md)
+2. [KOTH Rooms](THM-KOTH)
+
 ## Useful Links (Try Hack Me King Of The Hill)
 1. <a href="https://github.com/MatheuZSecurity/Koth-TryHackMe-Tricks">MatheuZSecurity</a>
 2. <a href="https://github.com/andrew-d/static-binaries">Static Binaries</a>
