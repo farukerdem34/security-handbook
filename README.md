@@ -12,3 +12,11 @@
 ### XSS
 1. <a href="https://portswigger.net/web-security/cross-site-scripting/cheat-sheet">Port Swigger XSS Cheat Sheet</a>
 2. <a href="https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45">XSS Vectors Cheat Sheet</a>
+
+## Common Sites
+1. <a href="https://gtfobins.github.io/">GTFO Bins</a>
+2. <a href="https://www.revshells.com/">Reverse Shells</a>
+3. <a href="https://book.hacktricks.xyz/welcome/readme">HackTricks.xyz</a>
+4. [Cyber Chef](https://gchq.github.io/CyberChef/)
+
+
