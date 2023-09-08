@@ -14,7 +14,7 @@
 ```bash
 @echo off
 :x
-attrib -a -s -r -i C:\king.txt&echo YourNickHere > C:\king.txt&attrib +a +s +r +i C:\king.txt
+attrib -a -s -r -i C:\king.txt&echo lomarkomar > C:\king.txt&attrib +a +s +r +i C:\king.txt
 goto x
 ```
 
