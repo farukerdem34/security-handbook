@@ -65,3 +65,8 @@ rm king.txt
 echo "lomarkomar" > x
 ln -s x king.txt
 ```
+
+# Compile kingmaker.c with no dep
+```bash
+gcc -static -o proc proc.c
+```
