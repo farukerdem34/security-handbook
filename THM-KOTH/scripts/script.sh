@@ -13,6 +13,9 @@ if [[ ! -e $chattr_path ]]; then
 	rm -rf $fake_chattr_path"/wget-log*"
 fi 
 $chattr_path -ia $king_path
+chmod +w $king_path
 echo 'lomarkomar' >| $king_path
+chmod 400 $king_path
 $chattr_path +ia $king_path
+set -o noclobber $king_path
 done
