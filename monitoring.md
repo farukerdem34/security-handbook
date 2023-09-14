@@ -9,7 +9,10 @@ You can change the `-d` value by 1 to increase delay, you can modify that by pre
 top -o -PID -d 0.5 -c -b > log.txt&
 ```
 This command logs the top outputs, so if you couldn't capture the process you can check it again.
-
+## PS
+```bash
+watch -n 0 'ps -eo pid,uid,cmd --sort=-pid| head'
+```
 ## Tail
 ```bash
 tail -f /var/log/syslog /var/log/auth.log
