@@ -15,7 +15,7 @@ watch -n 0 'ps -eo pid,uid,cmd --sort=-pid| head'
 ```
 ## Tail
 ```bash
-tail -f /var/log/syslog /var/log/auth.log
+tail -n 10 -f /var/log/syslog /var/log/auth.log
 ```
 Multiple log file monitoring.
 
