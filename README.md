@@ -1,5 +1,5 @@
 ## Topics
-1. [Blue Teaming](##BlueTeaming)
+1. [Blue Teaming](#blue-teaming)
 2. [Event Log Monitoring](monitoring.md)
 3. [KOTH Rooms](THM-KOTH)
 
