@@ -26,3 +26,12 @@
 2. <a href="https://www.revshells.com/">Reverse Shells</a>
 3. <a href="https://book.hacktricks.xyz/welcome/readme">HackTricks.xyz</a>
 4. [Cyber Chef](https://gchq.github.io/CyberChef/)
+5. [Google Message Header Analyzer](https://toolbox.googleapps.com/apps/messageheader/analyzeheader)
+6. [Azure Header Analyze](https://toolbox.googleapps.com/apps/messageheader/analyzeheader)
+7. [Mailheader.org](https://mailheader.org/)
+8. [IP Info](https://ipinfo.io/)
+9. [URL2PNG](https://www.url2png.com/)
+10. [Wannabrowser](https://www.wannabrowser.net/)
+11. [Talos Intelligence](https://talosintelligence.com/reputation)
+12. [URL Extractor](https://www.convertcsv.com/url-extractor.htm)
+13. 
