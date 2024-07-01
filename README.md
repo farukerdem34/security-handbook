@@ -29,6 +29,9 @@
 
 ## Malfile
 1. [Virustotal](https://www.virustotal.com/gui/home/upload)
+2. [any.run](https://app.any.run/)
+3. [https://www.hybrid-analysis.com/](Hybrid Anaylsi)
+4. [Joe Security](https://www.joesecurity.org/)
 
 ## EMAIL Header Analyze
 1. [Google Message Header Analyzer](https://toolbox.googleapps.com/apps/messageheader/analyzeheader)
@@ -42,3 +45,21 @@
 4. [Talos Intelligence](https://talosintelligence.com/reputation)
 5. [URL Extractor](https://www.convertcsv.com/url-extractor.htm)
 
+# Dev&SecOps
+## Pipeline
+1. [Jenkins](https://www.jenkins.io/)
+2. Github Actions
+3. Gitlab CI/CD
+4. [Terraform](https://www.terraform.io/)
+5. Azure DevOps
+6. Google Cloud Build
+
+## Security In Pipeline
+1. [Aqua Trivy](https://github.com/aquasecurity/trivy)
+2. [Snyk Security](https://snyk.io/)
+3. [Trufflehog](https://github.com/trufflesecurity/trufflehog)
+4. [OWASP ZAP Docker](https://www.zaproxy.org/docs/docker/about/)
+5. [Sonarqube](https://www.sonarsource.com/products/sonarqube/)
+## Log Operations
+1. [Wazuh](https://wazuh.com/)
+2. [Splunk](https://www.splunk.com/)
