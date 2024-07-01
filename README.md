@@ -27,6 +27,8 @@
 3. <a href="https://book.hacktricks.xyz/welcome/readme">HackTricks.xyz</a>
 4. [Cyber Chef](https://gchq.github.io/CyberChef/)
 
+## Malfile
+1. [Virustotal](https://www.virustotal.com/gui/home/upload)
 
 ## EMAIL Header Analyze
 1. [Google Message Header Analyzer](https://toolbox.googleapps.com/apps/messageheader/analyzeheader)
@@ -37,6 +39,6 @@
 1. [IP Info](https://ipinfo.io/)
 2. [URL2PNG](https://www.url2png.com/)
 3. [Wannabrowser](https://www.wannabrowser.net/)
-12. [Talos Intelligence](https://talosintelligence.com/reputation)
-13. [URL Extractor](https://www.convertcsv.com/url-extractor.htm)
-14. 
+4. [Talos Intelligence](https://talosintelligence.com/reputation)
+5. [URL Extractor](https://www.convertcsv.com/url-extractor.htm)
+
