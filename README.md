@@ -21,17 +21,22 @@
 1. <a href="https://portswigger.net/web-security/cross-site-scripting/cheat-sheet">Port Swigger XSS Cheat Sheet</a>
 2. <a href="https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45">XSS Vectors Cheat Sheet</a>
 
-## Handy Web Sites
+### Handy Web Sites
 1. <a href="https://gtfobins.github.io/">GTFO Bins</a>
 2. <a href="https://www.revshells.com/">Reverse Shells</a>
 3. <a href="https://book.hacktricks.xyz/welcome/readme">HackTricks.xyz</a>
 4. [Cyber Chef](https://gchq.github.io/CyberChef/)
-5. [Google Message Header Analyzer](https://toolbox.googleapps.com/apps/messageheader/analyzeheader)
-6. [Azure Header Analyze](https://toolbox.googleapps.com/apps/messageheader/analyzeheader)
-7. [Mailheader.org](https://mailheader.org/)
-8. [IP Info](https://ipinfo.io/)
-9. [URL2PNG](https://www.url2png.com/)
-10. [Wannabrowser](https://www.wannabrowser.net/)
-11. [Talos Intelligence](https://talosintelligence.com/reputation)
-12. [URL Extractor](https://www.convertcsv.com/url-extractor.htm)
-13. 
+
+
+## EMAIL Header Analyze
+1. [Google Message Header Analyzer](https://toolbox.googleapps.com/apps/messageheader/analyzeheader)
+2. [Azure Header Analyze](https://toolbox.googleapps.com/apps/messageheader/analyzeheader)
+3. [Mailheader.org](https://mailheader.org/)
+
+## Misc
+1. [IP Info](https://ipinfo.io/)
+2. [URL2PNG](https://www.url2png.com/)
+3. [Wannabrowser](https://www.wannabrowser.net/)
+12. [Talos Intelligence](https://talosintelligence.com/reputation)
+13. [URL Extractor](https://www.convertcsv.com/url-extractor.htm)
+14. 
