@@ -30,7 +30,7 @@
 ## Malfile
 1. [Virustotal](https://www.virustotal.com/gui/home/upload)
 2. [any.run](https://app.any.run/)
-3. [https://www.hybrid-analysis.com/](Hybrid Anaylsi)
+3. [Hybrid Anaylsi](https://www.hybrid-analysis.com/)
 4. [Joe Security](https://www.joesecurity.org/)
 
 ## EMAIL Header Analyze
