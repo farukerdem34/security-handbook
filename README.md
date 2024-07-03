@@ -5,6 +5,7 @@
 
 ## Blue Teaming
 1. <a href="https://www.iblue.team/">IBlue.Team</a>
+2. [Windows Logging Cheat Sheet](https://static1.squarespace.com/static/552092d5e4b0661088167e5c/t/580595db9f745688bc7477f6/1476761074992/Windows+Logging+Cheat+Sheet_ver_Oct_2016.pdf)
 
 ## Useful Links (TryHackMe King Of The Hill)
 1. <a href="https://github.com/MatheuZSecurity/Koth-TryHackMe-Tricks">MatheuZSecurity</a>
