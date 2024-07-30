@@ -27,6 +27,7 @@
 2. <a href="https://www.revshells.com/">Reverse Shells</a>
 3. <a href="https://book.hacktricks.xyz/welcome/readme">HackTricks.xyz</a>
 4. [Cyber Chef](https://gchq.github.io/CyberChef/)
+5. [Crack Station](https://crackstation.net/)
 
 ## Malfile
 1. [Virustotal](https://www.virustotal.com/gui/home/upload)
