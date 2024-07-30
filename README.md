@@ -1,3 +1,6 @@
+<center>
+<a src="https://medium.com/@farukomererdem2003"><img href="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a> <a href="https://www.linkedin.com/in/faruk-omer-erdem/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+</center>
 ## Topics
 1. [Blue Teaming](#blue-teaming)
 2. [Event Log Monitoring](monitoring.md)
