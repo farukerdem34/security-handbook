@@ -28,6 +28,8 @@
 3. <a href="https://book.hacktricks.xyz/welcome/readme">HackTricks.xyz</a>
 4. [Cyber Chef](https://gchq.github.io/CyberChef/)
 5. [Crack Station](https://crackstation.net/)
+6. [LOLBAS](https://lolbas-project.github.io/#)
+7. [WADComs](https://wadcoms.github.io/)
 
 ## Malfile
 1. [Virustotal](https://www.virustotal.com/gui/home/upload)
@@ -66,3 +68,7 @@
 1. [Wazuh](https://wazuh.com/)
 2. [Splunk](https://www.splunk.com/)
 3. [ULogViewer](https://github.com/carina-studio/ULogViewer)
+## SOC Misc
+1. [DFIR Iris](https://dfir-iris.org/) Incident Response
+2. [Shuffle](https://shuffler.io/) SOAR
+3. [MISP](https://www.misp-project.org/) Threat Sharing
