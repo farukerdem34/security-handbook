@@ -22,6 +22,8 @@
 ## Cheat Sheets
 ### Linux
 1. [100+ Linux Commands](https://www.golinuxcloud.com/linux-commands-cheat-sheet/)
+2. [Volatilty 2&3 Cheat Sheet](https://blog.onfvp.com/post/volatility-cheatsheet/)
+3. [Windows Forensics Cheat Sheet](https://fareedfauzi.github.io/2023/12/22/Windows-Forensics-checklist-cheatsheet.html)
 ### SQLi
 1. <a href="https://portswigger.net/web-security/sql-injection/cheat-sheet">Port Swigger SQLi Cheat Sheet</a>
 ### XSS
