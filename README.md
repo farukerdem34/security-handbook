@@ -45,10 +45,14 @@
 3. [Hybrid Anaylsi](https://www.hybrid-analysis.com/)
 4. [Joe Security](https://www.joesecurity.org/)
 
-## EMAIL Header Analyze
+## EMAIL
+### Header Analyze
 1. [Google Message Header Analyzer](https://toolbox.googleapps.com/apps/messageheader/analyzeheader)
 2. [Azure Header Analyze](https://toolbox.googleapps.com/apps/messageheader/analyzeheader)
 3. [Mailheader.org](https://mailheader.org/)
+
+## Office Docs
+1. [Oletools](https://github.com/decalage2/oletools)
 
 ## Misc
 1. [IP Info](https://ipinfo.io/)
