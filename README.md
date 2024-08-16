@@ -39,6 +39,12 @@
 6. [LOLBAS](https://lolbas-project.github.io/#)
 7. [WADComs](https://wadcoms.github.io/)
 
+## MalIP
+1. [Virustotal](https://www.virustotal.com/gui/home/upload)
+2. [AbuselPDB](https://www.abuseipdb.com/)
+3. [Talos Intelligence](https://talosintelligence.com/reputation)
+
+
 ## Malfile
 1. [Virustotal](https://www.virustotal.com/gui/home/upload)
 2. [any.run](https://app.any.run/)
@@ -58,8 +64,7 @@
 1. [IP Info](https://ipinfo.io/)
 2. [URL2PNG](https://www.url2png.com/)
 3. [Wannabrowser](https://www.wannabrowser.net/)
-4. [Talos Intelligence](https://talosintelligence.com/reputation)
-5. [URL Extractor](https://www.convertcsv.com/url-extractor.htm)
+4. [URL Extractor](https://www.convertcsv.com/url-extractor.htm)
 
 # Dev&SecOps
 ## Pipeline
