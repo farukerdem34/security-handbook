@@ -38,6 +38,7 @@
 5. [Crack Station](https://crackstation.net/)
 6. [LOLBAS](https://lolbas-project.github.io/#)
 7. [WADComs](https://wadcoms.github.io/)
+8. [The Hacker's Recipe](https://www.thehacker.recipes/)
 
 ## MalIP
 1. [Virustotal](https://www.virustotal.com/gui/home/upload)
